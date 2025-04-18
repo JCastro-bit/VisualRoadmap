@@ -1,6 +1,5 @@
 import React from 'react';
 import VisualRoadmap from './components/VisualRoadmap';
-import './App.css';
 
 function App() {
   return (
